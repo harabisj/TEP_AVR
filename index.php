@@ -41,5 +41,9 @@
             <input type="submit" class="btn btn-primary" value="Vypočítej to, lol">
         </div>
     </form>
+
+    <small>
+        <a class="text-muted" href="https://github.com/harabisj/TEP_AVR">Available on GitHub</a>
+    </small>
 </body>
 </html>
