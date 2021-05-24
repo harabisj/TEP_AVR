@@ -44,7 +44,7 @@ $isr = [
 
         ISR(TIMER<?=$_GET['timer']?>_<?=$isr[$_GET['event']]?>)
         {
-            PORTF ~= PORTF;
+            PORTF = ~PORTF;
     <?php if ($_GET['event'] == 'ovf'): ?>
         TCNT<?=$_GET['timer']?> = <?=65536 - $_GET['n']?>;
     <?php endif; ?>
