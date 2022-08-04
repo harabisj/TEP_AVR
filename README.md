@@ -3,4 +3,4 @@ Tato webová mini-aplikace je určená k výpočtu hodnot pro registry procesoru
 
 Aplikace byla napsána narychlo, takže je kód velmi nepřehledný a nelze zaručit stoprocentní přesnost. Chybí také validace vstupů. Účel světí prostředky...
 
-K dispozici v produkci na: https://jakubharabis.cz/tepavr/
+K dispozici v produkci na: https://apps.jakubharabis.cz/tepavr/
